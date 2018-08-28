@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "register-user-client-side-solution",
+    "id": "952add44-eb49-49d0-b2da-e99299ad633e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/register-user.sppkg"
+  }
+}
